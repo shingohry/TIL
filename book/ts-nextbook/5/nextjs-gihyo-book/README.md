@@ -1,3 +1,10 @@
+# Commands
+- storybook起動: `$ npm run storybook`
+- ESLint
+  - 実行: `$ npm run lint`
+  - 修正: `$ npm run format`
+
+# nextjs-gihyo-book
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
